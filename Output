@@ -1,0 +1,21 @@
+========================================
+      SNAKE WATER GUN GAME
+========================================
+
+Enter Snake, Water or Gun: snake
+
+Computer Chose: water
+
+Congratulations! You Win.
+
+Play Again? (yes/no): yes
+
+Enter Snake, Water or Gun: gun
+
+Computer Chose: water
+
+Computer Wins!
+
+Play Again? (yes/no): no
+
+Thanks for Playing!
